@@ -1,1 +1,2 @@
 Esse arquivo é apenas um exemplo.
+Adicionando mais uma linha.
