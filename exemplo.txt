@@ -1,4 +1,4 @@
-Esse arquivrrro é apenas um exemplo.
-Adicionando marris uma linha.
-Essa é a tercrrrreira linha desse meu texto.
-Quarta lirrrrnha.
+Esse arquivo é apenas um exemplo.
+Adicionando mais uma linha.
+Essa é a terceira linha desse meu texto.
+Quarta linha.
