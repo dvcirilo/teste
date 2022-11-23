@@ -2,3 +2,5 @@ Esse arquivo é apenas um exemplo.
 Essa linha é totalmente diferente do que estava no outro texto.
 Essa é a terceira linha desse meu texto.
 Quarta linha.
+Adicionando uma linha ao meio.
+
